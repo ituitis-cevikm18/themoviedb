@@ -5,7 +5,7 @@ import json
 class Movie:
     def __init__(self):
         self.api_url="https://api.themoviedb.org/3/"
-        self.api_key = "de0a65be21166238a02042a2dfa38a6f"
+        self.api_key = ""
         self.page = 1
 
     def getPopulars(self):
