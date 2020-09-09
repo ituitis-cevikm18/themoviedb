@@ -1,2 +1,2 @@
 # themoviedb
-requests.get using
+I tried to use requests module on that project.
